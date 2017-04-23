@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AverageCharacterDelimiter",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortArrayOfStrings", "SortArrayOfStrings\SortArrayOfStrings.csproj", "{B9A7E52A-C4FD-4598-9F69-B610E9263037}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayGistogram", "ArrayGistogram\ArrayGistogram.csproj", "{0E18163A-20DB-4EAC-9662-E364D33C3357}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{B9A7E52A-C4FD-4598-9F69-B610E9263037}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9A7E52A-C4FD-4598-9F69-B610E9263037}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9A7E52A-C4FD-4598-9F69-B610E9263037}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E18163A-20DB-4EAC-9662-E364D33C3357}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E18163A-20DB-4EAC-9662-E364D33C3357}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E18163A-20DB-4EAC-9662-E364D33C3357}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E18163A-20DB-4EAC-9662-E364D33C3357}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
